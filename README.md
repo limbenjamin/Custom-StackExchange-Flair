@@ -6,4 +6,6 @@ I found that the default flair choices were limited and did not fit well with th
 
 This script can be modified for sites running on python based backend to always provide up to date statistics.
 
+Please modify the URL to include your own user profile as well as the network site before using. For my case, the network site I am interested in is security.stackexchange which happens to be the 3th item in the array. Hence the [4] in the context.
+
 Live Demo: http://limbenjamin.com
